@@ -7,7 +7,7 @@ public class Main {
     public static void main(String[] args) {
 
         Scanner scan = new Scanner(System.in);
-        System.out.println("------JOGO DA VELHA------");
+        System.out.println("-----JOGO DA VELHA-----");
         System.out.println();
         System.out.print("Digite o nome do jogador 1: ");
         scan.next();
